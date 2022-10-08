@@ -14,7 +14,7 @@
     <name>full-stack-portfolio</name>
     <description>full-stack-portfolio</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
         <node.version>v16.16.0</node.version>
         <npm.version>8.19.2</npm.version>
     </properties>
